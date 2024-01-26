@@ -22,5 +22,6 @@ The agent recognizes images corresponding to Rock (0), Scissor (1), or Paper (2)
 - Detailed analysis using confusion matrices, line plots, and classification reports to understand the model's performance.
 - Insights into the model's strengths and weaknesses across different types of images.
 ### Requirements
-- The solution and analysis are documented in a Jupyter Notebook, uploaded to GitHub.
+- The code is created in a Google Colab Notebook, uploaded to GitHub.
+- There is also a report file in the repository.
 - The project explores various models, image processing techniques, and hyperparameter tuning.
